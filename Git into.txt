@@ -1,0 +1,16 @@
+Welcome to my new Git Doc
+Install git in your device.
+Use terminal like Vs Terminal or Cmd Terminal 
+First Step : 
+git  config --global user.name  ' Enter your Name '
+
+git config --global user.email  'Enter your Email'
+
+second Step :
+Creating a folder in git :
+mkdir Project name
+cd project Name
+
+how to check where are you in git now:
+
+git init
